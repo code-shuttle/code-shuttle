@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Emmanuel Jr and I'm a Computer programmer and Mechanical Engineer from Philippines.</p>
+<p align="left">My name is Emmanuel Jr and I'm a Computer programmer and Mechanical Engineer.</p>
 
 ###
 
