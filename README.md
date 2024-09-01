@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2010 up until now.<br>📚 I'm currently learning learning new programming language like Go programming language.<br>🎯 Goals: Improve myself and make it better for brighter tomorrow.</p>
+<p align="left">✨ Creating bugs since 2010 up until now.<br>📚 I'm currently learning new programming language like Go programming language.<br>🎯 Goals: Improve myself and make it better for brighter tomorrow.</p>
 
 ###
 
