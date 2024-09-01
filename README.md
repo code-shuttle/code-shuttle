@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
 ###
 
 <p align="left">My name is Emmanuel Jr and I'm a Computer programmer and Mechanical Engineer from Philippines.</p>
